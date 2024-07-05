@@ -1,7 +1,7 @@
 # AcikKaynakFinalOdevi
-2.Adım: PremierLeague 
-    Kullanılan Api: Premier League Standings 
-    Api URL = "https://heisenbug-premier-league-live-scores-v1.p.rapidapi.com/api/premierleague/team"
+2.Adım: PremierLeague <br>
+    Kullanılan Api: Premier League Standings <br>
+    Api URL = "https://heisenbug-premier-league-live-scores-v1.p.rapidapi.com/api/premierleague/team" <br>
     Yapılan Sorgular: managers , venue
     Managers Çıktı: [{'name': 'Jürgen Klopp', 'age': 56, 'appointed': 'Oct 8, 2015', 'contractExpires': '30.06.2026', 'active': True}]
     Venue Çıktı: Anfield
